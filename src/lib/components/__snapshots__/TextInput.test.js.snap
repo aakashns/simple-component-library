@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput renders properly 1`] = `
+<div
+  className="simple-form-group"
+>
+  <label
+    className="simple-text-label"
+  >
+    Email
+  </label>
+  <input
+    className="simple-text-input"
+    onChange={[Function]}
+    placeholder="name@example.com"
+    type="text"
+    value={undefined}
+  />
+</div>
+`;
